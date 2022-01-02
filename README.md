@@ -21,4 +21,4 @@ If the launcher does not install and run, your anti-virus may be putting the fil
 
 Go to Windows | Add or remove programs and search for CelestiusLauncher.
 
-<img src="./assets/launcher_uninstall.PNG" width="250" >
+<img src="./assets/launcher_uninstall.png" width="500" >
