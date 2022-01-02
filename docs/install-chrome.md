@@ -1,3 +1,5 @@
+## Installing via Chrome example:
+
 Send to Google for scanning:
 
 <img src="../assets/download_send.PNG" width="250" >
