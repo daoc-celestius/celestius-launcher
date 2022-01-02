@@ -6,6 +6,7 @@ Game launcher for the [Celestius RvR Freeshard](https://celestiusrvr.com/) serve
 [Download Setup.exe from the releases page](https://github.com/daoc-celestius/celestius-launcher/releases/latest) and run it.
 
 Downloading may trigger SmartScreen, if so select send:
+![image](https://user-images.githubusercontent.com/1178448/147863872-a2e3ce0f-2259-46f1-9cca-06bedc738033.png)
 
 
 
