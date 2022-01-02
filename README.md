@@ -8,6 +8,10 @@ Game launcher for the [Celestius RvR Freeshard](https://celestiusrvr.com/) serve
   </a>
 </p>
 
+- [Celestius Launcher](#celestius-launcher)
+  - [How to install the launcher](#how-to-install-the-launcher)
+  - [How to uninstall the launcher](#how-to-uninstall-the-launcher)
+
 ## How to install the launcher
 [Download Setup.exe from the releases page](https://github.com/daoc-celestius/celestius-launcher/releases/latest) and run it.
 
