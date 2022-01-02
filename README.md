@@ -9,7 +9,7 @@ Installing may trigger various warnings, here's an example of installing via Chr
 
 Send to Google for scanning:
 
-<img src="https://user-images.githubusercontent.com/1178448/147863872-a2e3ce0f-2259-46f1-9cca-06bedc738033.png" width="250" >
+<img src="./assets/download_send.PNG" width="250" >
 
 Run:
 
